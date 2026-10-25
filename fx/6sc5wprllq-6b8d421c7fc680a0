@@ -1,9 +1,0 @@
-{
-  "v": 1,
-  "target": "avatar",
-  "dur": 4000,
-  "layers": [
-    {"type":"particles","kind":"star","count":20,"size":[0.02,0.05],"colors":["#8B5CF6","#F0ABFC"],"speed":[0.08,0.22],"dir":-90,"spread":360,"area":"ring","radius":0.33,"cycles":2,"shrink":true,"seed":4},
-    {"type":"particles","kind":"star","count":17,"size":[0.03,0.06],"colors":["#8B5CF6","#F0ABFC"],"speed":[0,0],"area":"ring","radius":0.35,"cycles":2,"seed":11}
-  ]
-}
