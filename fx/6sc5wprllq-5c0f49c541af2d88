@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "target": "avatar",
+  "dur": 4000,
+  "layers": [
+    {"type":"glow","r":0.58,"color":"accent","alpha":{"from":0.3,"to":0.9,"ease":"sine"}},
+    {"type":"particles","kind":"star","count":12,"size":[0.03,0.06],"colors":["accent","#FFFFFF"],"speed":[0,0],"area":"ring","radius":0.35,"cycles":2,"seed":11}
+  ]
+}
