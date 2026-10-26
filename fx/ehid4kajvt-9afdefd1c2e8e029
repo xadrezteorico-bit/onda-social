@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "target": "avatar",
+  "dur": 4000,
+  "layers": [
+    {"type":"ring","r":{"from":0.34,"to":0.5,"ease":"out","mode":"loop"},"w":0.012,"color":"accent","alpha":{"from":0.8,"to":0,"ease":"out","mode":"loop"}},
+    {"type":"ring","r":{"from":0.34,"to":0.5,"ease":"out","mode":"loop","phase":0.5},"w":0.012,"color":"#FFFFFF","alpha":{"from":0.8,"to":0,"ease":"out","mode":"loop","phase":0.5}},
+    {"type":"ring","r":0.335,"w":0.014,"dash":24,"color":"accent","rot":{"from":0,"to":360,"mode":"loop"}},
+    {"type":"ring","r":0.38,"w":0.010,"dash":18,"color":"#FFFFFF","rot":{"from":360,"to":0,"mode":"loop"}}
+  ]
+}
