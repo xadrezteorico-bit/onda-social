@@ -1,0 +1,8 @@
+{
+  "v": 1,
+  "target": "avatar",
+  "dur": 2000,
+  "layers": [
+    {"type":"particles","kind":"star","count":17,"size":[0.03,0.06],"colors":["#8B5CF6","#F0ABFC"],"speed":[0,0],"area":"ring","radius":0.35,"cycles":2,"seed":11}
+  ]
+}
